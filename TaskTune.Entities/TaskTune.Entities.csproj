@@ -10,4 +10,9 @@
     <PackageReference Include="Microsoft.AspNetCore.Identity.EntityFrameworkCore" Version="7.0.14" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="Management\TeamManagement\" />
+    <Folder Include="Management\TaskManagement\" />
+  </ItemGroup>
+
 </Project>
